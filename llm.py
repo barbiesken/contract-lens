@@ -15,6 +15,17 @@ from dotenv import load_dotenv
 # Load .env from the project root, regardless of where Python is launched from
 load_dotenv(Path(__file__).resolve().parent / ".env")
 
+# When running on Streamlit Cloud, secrets are injected via st.secrets
+# rather than .env. Mirror them into os.environ so the rest of the
+# code (which reads from env) works without changes.
+try:
+    import streamlit as st
+    for key in ("OPENAI_API_KEY", "ANTHROPIC_API_KEY", "LANGCHAIN_API_KEY"):
+        if key in st.secrets and not os.getenv(key):
+            os.environ[key] = st.secrets[key]
+except Exception:
+    pass  # Not running under Streamlit (e.g., pytest, scripts) — skip.
+
 def _which_provider() -> tuple[str | None, str | None]:
     """Returns (provider_name, model_name) for whichever key is set, or (None, None)."""
     if os.getenv("OPENAI_API_KEY"):
