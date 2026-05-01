@@ -211,20 +211,7 @@ Each checklist item carries `must_have`, `must_avoid`, `good_language_examples`,
 
 ---
 
-## 9. Demo flow (for the 3-minute video)
 
-1. **Open the app**, select **Jurisdiction: India** in the sidebar, set **max iterations: 3**, leave all 7 categories enabled.
-2. Click the **"Use a sample"** tab and load `sample_nda_weak.txt` (the deliberately-defective NDA).
-3. Click **▶ Run reflection loop**. Show the live progress bar tick through `parser → drafter → critic → drafter → critic → formatter`.
-4. Show the **KPI strip**: 2 iterations, ~12 redlines, 4-6 issues.
-5. **Tab 1: Reflection Loop** — show the iteration-1 vs iteration-2 cards side-by-side. Highlight that iteration 2's drafter strategy explicitly references critic feedback.
-6. **Tab 2: Clause map** — show the colour-coded risk heat-map (red for unlimited liability, etc.).
-7. **Tab 3: Redlines** — open one expanded redline to show the rationale.
-8. **Tab 4: Diff** — show the side-by-side original-vs-final.
-9. **Tab 5: Final report** — scroll the markdown report; click the download buttons.
-10. Re-run with **jurisdiction: EU** to show the checklist swap (GDPR mentions in the issues).
-
----
 
 ## 10. Team
 
