@@ -1,4 +1,5 @@
 # ⚖️ ContractLens
+**🚀 Live demo:** https://contract-lens.streamlit.app
 
 > **Reflection-loop contract reviewer** — a LangGraph agent that drafts redlines, critiques them against a jurisdiction-specific 7-point legal checklist, and iterates until the contract is partner-quality (or the iteration cap is hit).
 >
