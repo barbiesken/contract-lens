@@ -1,0 +1,52 @@
+SAAS SUBSCRIPTION AGREEMENT
+
+This SaaS Subscription Agreement ("Agreement") is entered into between Nimbus Cloud Inc., a Delaware corporation ("Provider"), and the customer identified in the applicable Order Form ("Customer"), as of the Effective Date set forth in such Order Form.
+
+1. Definitions
+"Confidential Information" means any non-public information of either party that is marked confidential or that, given the nature of the information and the circumstances of disclosure, a reasonable person would understand to be confidential.
+
+"Customer Data" means any data submitted by or on behalf of Customer to the Services.
+
+"Services" means the cloud-based software-as-a-service offering identified in the applicable Order Form.
+
+2. Subscription
+Provider grants Customer a non-exclusive, non-transferable, worldwide right to access and use the Services during the Subscription Term, solely for Customer's internal business purposes.
+
+3. Term and Termination
+3.1 The initial Subscription Term shall be as set forth in the Order Form. Subscriptions automatically renew for successive one-year terms unless either party provides written notice of non-renewal at least 30 days prior to expiration of the then-current term.
+3.2 Either party may terminate this Agreement for material breach by the other party that remains uncured 30 days after written notice.
+3.3 Either party may terminate this Agreement immediately if the other party becomes insolvent or files for bankruptcy.
+3.4 Upon termination, Customer's access shall cease and Provider shall delete or return Customer Data within 60 days of termination, subject to legal retention requirements.
+
+4. Confidentiality
+4.1 Each party shall protect the other's Confidential Information using the same degree of care it uses for its own confidential information, but in no event less than reasonable care.
+4.2 The obligations in this Section survive termination for five (5) years; provided that, with respect to trade secrets, the obligations shall survive for so long as the information remains a trade secret under applicable law.
+4.3 Standard exceptions apply for information that is or becomes public, was known prior to disclosure, is independently developed, or is rightfully received from a third party.
+
+5. Intellectual Property
+5.1 Provider retains all right, title, and interest in and to the Services, including all related intellectual property rights.
+5.2 Customer retains all right, title, and interest in and to Customer Data.
+5.3 Customer hereby grants Provider a non-exclusive, royalty-free license to use Customer Data solely as necessary to provide the Services.
+
+6. Data Protection
+6.1 Provider shall implement and maintain appropriate technical and organizational measures designed to protect Customer Data, in accordance with applicable data-protection laws.
+6.2 Where Provider processes personal data on behalf of Customer, the parties' Data Processing Addendum (DPA) shall govern such processing and is incorporated by reference.
+6.3 Provider shall notify Customer of any confirmed Personal Data Breach without undue delay and in any event within seventy-two (72) hours of becoming aware.
+
+7. Indemnification
+7.1 Provider shall defend, indemnify, and hold harmless Customer from any third-party claim that the Services, as provided by Provider, infringe a valid intellectual property right of such third party.
+7.2 Customer shall defend, indemnify, and hold harmless Provider from any third-party claim arising out of Customer's use of the Services in breach of this Agreement.
+7.3 Standard procedures: prompt notice, sole control of defense (with reasonable cooperation), and no settlement that admits liability of the indemnified party without consent.
+
+8. Limitation of Liability
+8.1 EXCEPT FOR (A) LIABILITY ARISING FROM A PARTY'S INDEMNIFICATION OBLIGATIONS, (B) BREACH OF CONFIDENTIALITY, (C) GROSS NEGLIGENCE OR WILLFUL MISCONDUCT, OR (D) AMOUNTS OWED FOR THE SERVICES, EACH PARTY'S AGGREGATE LIABILITY SHALL NOT EXCEED THE FEES PAID OR PAYABLE BY CUSTOMER UNDER THIS AGREEMENT IN THE TWELVE (12) MONTHS PRECEDING THE EVENT GIVING RISE TO THE CLAIM.
+8.2 IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, OR PUNITIVE DAMAGES, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+9. Governing Law and Dispute Resolution
+9.1 This Agreement shall be governed by the laws of the State of Delaware, without regard to its conflict-of-laws principles.
+9.2 The parties consent to the exclusive jurisdiction of the state and federal courts located in Wilmington, Delaware, except that either party may seek injunctive relief in any court of competent jurisdiction.
+
+10. Miscellaneous
+This Agreement, together with the Order Form and any addenda, constitutes the entire agreement between the parties and supersedes all prior agreements.
+
+[Signatures omitted]

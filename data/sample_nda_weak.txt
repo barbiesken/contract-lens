@@ -1,0 +1,35 @@
+MUTUAL NON-DISCLOSURE AGREEMENT
+
+This Mutual Non-Disclosure Agreement ("Agreement") is entered into as of [DATE] by and between Acme Corp, an Indian company ("Acme"), and Globex Pvt. Ltd., an Indian company ("Globex").
+
+1. Confidential Information
+"Confidential Information" means any business information disclosed by one party to the other.
+
+2. Obligations
+Each party agrees to keep the other party's Confidential Information confidential.
+
+3. Term
+This Agreement shall remain in effect indefinitely.
+
+4. Indemnification
+Globex shall indemnify and hold harmless Acme from any and all claims, damages, losses, costs, and expenses arising out of or related to this Agreement. Globex's liability under this clause shall be unlimited.
+
+5. Limitation of Liability
+Acme shall have no liability of any kind to Globex under this Agreement. In no event shall Acme be liable for any damages whatsoever.
+
+6. Termination
+Acme may terminate this Agreement at any time at its sole and absolute discretion without notice.
+
+7. Governing Law
+This Agreement shall be governed by the laws of a mutually agreed jurisdiction.
+
+8. Data Protection
+Each party shall handle personal data appropriately.
+
+9. Intellectual Property
+Globex will assign to Acme any intellectual property created in connection with this Agreement.
+
+10. Miscellaneous
+This Agreement constitutes the entire agreement between the parties.
+
+[Signatures omitted]

@@ -1,0 +1,47 @@
+DATA PROCESSING ADDENDUM
+
+This Data Processing Addendum ("DPA") forms part of the Master Services Agreement between Helio Analytics GmbH (Germany) ("Processor") and the Customer ("Controller") for the provision of analytics services involving the processing of personal data within the European Economic Area.
+
+1. Subject Matter and Duration
+1.1 The subject matter of the processing is the provision of the Services as described in the underlying Agreement.
+1.2 The duration of the processing corresponds to the term of the underlying Agreement.
+
+2. Nature and Purpose of Processing
+The Processor shall process Personal Data solely for the purpose of providing the Services as instructed by the Controller.
+
+3. Types of Personal Data and Categories of Data Subjects
+3.1 Types of personal data: contact data, account data, usage data.
+3.2 Categories of data subjects: Controller's employees and end users.
+
+4. Obligations of Processor
+4.1 The Processor processes Personal Data only on documented instructions from the Controller.
+4.2 The Processor ensures that persons authorized to process Personal Data have committed to confidentiality.
+4.3 The Processor implements appropriate technical and organizational measures.
+
+5. Sub-Processors
+5.1 The Controller authorizes the Processor to engage sub-processors listed in Annex II.
+5.2 The Processor shall give notice of any new sub-processor.
+
+6. International Data Transfers
+6.1 Where Personal Data is transferred outside the EEA, the parties shall rely on a valid transfer mechanism.
+6.2 The Standard Contractual Clauses are incorporated by reference where applicable.
+
+7. Data Subject Rights
+The Processor shall assist the Controller in responding to requests from data subjects.
+
+8. Personal Data Breaches
+The Processor shall notify the Controller of any Personal Data Breach.
+
+9. Audit Rights
+The Controller may audit the Processor's compliance with this DPA.
+
+10. Deletion or Return of Personal Data
+At the end of the provision of the Services, the Processor shall delete or return all Personal Data to the Controller, at the Controller's choice.
+
+11. Liability
+The liability of each party under this DPA is governed by the limitation of liability provisions in the underlying Agreement.
+
+12. Governing Law
+This DPA is governed by the laws of Germany, with exclusive jurisdiction of the courts of Munich.
+
+[Signatures omitted]
