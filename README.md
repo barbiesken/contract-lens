@@ -230,12 +230,11 @@ Each checklist item carries `must_have`, `must_avoid`, `good_language_examples`,
 
 | Member | Role | Sections |
 |---|---|---|
-| Member A | Architecture & state | `state.py`, `graph.py` |
-| Member B | Drafter & critic prompts | `nodes/drafter.py`, `nodes/critic.py` |
-| Member C | Checklists & jurisdiction logic | `checklists/*` |
-| Member D | UI & evaluation | `app.py`, `tests/`, demo recording |
+|Aaryan| Architecture & state, Drafter & critic prompts | `state.py`, `graph.py`  `nodes/drafter.py`, `nodes/critic.py`|
+| Daksh | Checklists & jurisdiction logic | `checklists/*` |
+| Mayank | UI & evaluation | `app.py`, `tests/`|
 
-(All four contributed across the codebase; the table reflects primary ownership.)
+(All three contributed across the codebase; the table reflects primary ownership.)
 
 ---
 
