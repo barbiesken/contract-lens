@@ -134,7 +134,7 @@ def drafter_node(state: GraphState) -> dict[str, Any]:
     print(f"[drafter] starting iteration {iteration_num}")
 
     llm = get_llm(temperature=0.1)
-    structured_llm = llm.with_structured_output(DrafterOutput)
+    structured_llm = llm.with_structured_output(DrafterOutput, method="function_calling")
 
     checklist_block = render_checklist_for_prompt(
         state.jurisdiction,

@@ -107,7 +107,7 @@ def parser_node(state: GraphState) -> dict[str, Any]:
     if clauses and state.original_contract.strip():
         try:
             llm = get_llm(temperature=0.0)
-            classifier = llm.with_structured_output(ClassificationBatch)
+            classifier = llm.with_structured_output(ClassificationBatch, method="function_calling")
 
             clauses_block = "\n\n".join(
                 f"[{c.id}] {c.heading}\n{c.text[:1200]}" for c in clauses

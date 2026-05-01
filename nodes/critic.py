@@ -59,7 +59,7 @@ def critic_node(state: GraphState) -> dict[str, Any]:
     print(f"[critic] evaluating draft from iteration {state.iteration}")
 
     llm = get_llm(temperature=0.0)
-    structured_llm = llm.with_structured_output(CriticVerdict)
+    structured_llm = llm.with_structured_output(CriticVerdict, method="function_calling")
 
     checklist_block = render_checklist_for_prompt(
         state.jurisdiction,
